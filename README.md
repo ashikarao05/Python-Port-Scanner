@@ -58,7 +58,7 @@ python scanner.py
 
 Enter the IP address to scan: 127.0.0.1
 Enter the starting port: 1
-Enter the ending port: 1024
+Enter the ending port: 1000
 
 Scanning...
 
